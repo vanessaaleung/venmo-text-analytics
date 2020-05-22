@@ -1,4 +1,4 @@
-# venmo-text-analytics
+# Venmo Text Analytics
 Text Analytics on Venmo Transactions Data
 
 #### Data
