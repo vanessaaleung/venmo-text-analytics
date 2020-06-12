@@ -1,6 +1,8 @@
 # Venmo Text Analytics
 Text Analytics on Venmo Transactions Data
 
+<img src="https://digital.hbs.edu/platform-digit/wp-content/uploads/sites/2/2020/02/Venmo-1.png" height="300px">
+
 #### Data
 
 The data contains more than 7 millions transactions on Venmo.
